@@ -65,9 +65,9 @@ auto-migrated: 1
 <h2 id="presentation_and_talks">Presentation and talks</h2>
 <p>The following links provide access to materials for OWTF talks (video, slides, etc.):</p>
 <p><a href="http://blog.7-a.org/search/label/OWTF%20Talks">OWTF Talks at 7-a.org</a></p>
-<p>You can see what OWASP OWTF is all about in the following video:{{#ev:youtube|H6Ut8U9a5KE}}</p>
-<p>OWASP OWTF 1.0 "Lionheart" - Brucon 2014 5x5: {{#ev:youtube|j2UoAsOLMB4}}</p>
-<p>OWASP AppSec EU 2013: Introducing OWASP OWTF 5x5: {{#ev:youtube|Vpca4-OlZqs}}</p>
+<p>You can see what OWASP OWTF is all about in the following video:#ev:youtube|H6Ut8U9a5KE}}</p>
+<p>OWASP OWTF 1.0 "Lionheart" - Brucon 2014 5x5: #ev:youtube|j2UoAsOLMB4}}</p>
+<p>OWASP AppSec EU 2013: Introducing OWASP OWTF 5x5: #ev:youtube|Vpca4-OlZqs}}</p>
 <p>For more videos please see the <a href="http://www.youtube.com/user/owtfproject">YouTube channel</a></p>
 <h2 id="licensing">Licensing</h2>
 <p><a href="https://github.com/owtf/owtf/blob/develop/LICENSE.md">LICENSE</a></p>
