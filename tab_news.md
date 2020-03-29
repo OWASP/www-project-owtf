@@ -1,5 +1,6 @@
 ---
-title: News and Events
+title: News
+displaytext: News and events
 layout:  null
 tab: true
 order: 1

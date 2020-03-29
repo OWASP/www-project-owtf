@@ -1,5 +1,6 @@
 ---
-title: Presentations and Talks
+title: Talks
+displaytext: Presentations and Talks
 layout:  null
 tab: true
 order: 1
