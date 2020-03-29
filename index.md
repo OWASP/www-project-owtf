@@ -8,6 +8,9 @@ level: 4
 type: tool
 pitch: Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python.
 ---
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/Category:OWASP_Project#tab=Project_Inventory)
+![Github stars](https://img.shields.io/github/stars/owtf/owtf?label=Stars&style=social)
+
 <style type="text/css">
 .image-left {
   display: block;
