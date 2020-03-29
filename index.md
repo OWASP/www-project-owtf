@@ -19,11 +19,7 @@ pitch: Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to u
 
 ![logo](/assets/images/OWTFLogo.png){: .image-left }
 
-> #### OWTF is taking part in the Google Summer of Code 2018 ! If you'd like to participate then see the [OWASP Google Summer of Code 2018 Ideas page](https://www.owasp.org/index.php/GSOC2018_Ideas)!
-
-> ToolsWatch Annual Best Free/Open Source Security Tool Survey:
-> * 2015 [10th](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
-> * 2014 [7th](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
+> # OWTF is taking part in the Google Summer of Code 2020 ! If you'd like to participate then see the [OWASP Google Summer of Code 2020 Ideas page](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas)!
 
 
 OWTF aims to make pen testing:
