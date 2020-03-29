@@ -1,14 +1,10 @@
 ---
-layout: col-sidebar
-title: OWASP OWTF
-site_side: true
+title: News and Events
+layout:  null
+tab: true
+order: 1
 tags: owtf
-project: true
-level: 0
-type: tool
 ---
-
-# News and Events
 
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!

@@ -1,4 +1,12 @@
-But we have also been helped by many organizations, either financially or through other means:
+---
+title: Sponsors
+layout:  null
+tab: true
+order: 1
+tags: owtf
+---
+
+We have been helped by many organizations, either financially or through other means:
 
 * [OWASP](http://www.owasp.org)
 * [eLearnSecurity](http://www.elearnsecurity.com/)
