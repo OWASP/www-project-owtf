@@ -11,7 +11,6 @@ ToolsWatch Annual Best Free/Open Source Security Tool Survey:
 > * 2015 [10th](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
 > * 2014 [7th](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
 
-```
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!
 *   May 7th, 2016 - [OWTF 2.0a "Tikka Masala" is here!](http://blog.7-a.org/2016/05/owtf-20a-tikka-masala-released-plz-rt.html)
@@ -79,4 +78,3 @@ ToolsWatch Annual Best Free/Open Source Security Tool Survey:
 
 *   September 24th 2012 - [OWASP OWTF 0.15 BruCon released!](http://blog.7-a.org/2012/09/owasp-owtf-015-brucon-released.html)
 *   September 24th 2012 - [OWASP OWTF 0.15 BruCon released!](http://blog.7-a.org/2012/09/owasp-owtf-015-brucon-released.html)
-```
