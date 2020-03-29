@@ -7,6 +7,7 @@ order: 2
 tags: owtf
 ---
 
+```
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!
 *   April 6th, 2017 - [OWTF 2.1a "Chicken Korma"](https://github.com/owtf/owtf/releases/tag/v2.1a) is here!
 *   May 7th, 2016 - [OWTF 2.0a "Tikka Masala" is here!](http://blog.7-a.org/2016/05/owtf-20a-tikka-masala-released-plz-rt.html)
@@ -74,3 +75,4 @@ tags: owtf
 
 *   September 24th 2012 - [OWASP OWTF 0.15 BruCon released!](http://blog.7-a.org/2012/09/owasp-owtf-015-brucon-released.html)
 *   September 24th 2012 - [OWASP OWTF 0.15 BruCon released!](http://blog.7-a.org/2012/09/owasp-owtf-015-brucon-released.html)
+```
