@@ -3,7 +3,7 @@ title: News
 displaytext: News and events
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: owtf
 ---
 
