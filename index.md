@@ -22,7 +22,7 @@ pitch: Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to u
 
 ![logo](/assets/images/OWTFLogo.png){: .image-left }
 
-> # OWTF is taking part in the Google Summer of Code 2020 ! If you'd like to participate then see the [OWASP Google Summer of Code 2020 Ideas page](https://owasp.org/www-community/initiatives/gsoc/gsoc2020ideas)!
+> # OWTF is taking part in the Google Summer of Code 2021 ! If you'd like to participate then see the [OWASP Google Summer of Code 2021 Ideas page](https://owasp.org/www-community/initiatives/gsoc/gsoc2021ideas)!
 
 
 OWTF aims to make pen testing:
@@ -40,7 +40,7 @@ so that pentesters will have more time to
 * Perform more tactical/targeted fuzzing on seemingly risky areas
 * Demonstrate true impact despite the short timeframes we are typically given to test.
 
-> ### **The latest version of OWASP OWTF is [OWTF 2.3b "MacinOWTF"](https://github.com/owtf/owtf/releases/tag/v2.3b).**
+> ### **The latest version of OWASP OWTF is [OWTF v2.5.0](https://github.com/owtf/owtf/releases/tag/v2.5.0).**
 
 OWTF attempts to solve the "penetration testers are never given enough time to test properly" problem, or in other words, OWTF = Test/Exploit ASAP, with this in mind, as of right now, the priorities are:
 
