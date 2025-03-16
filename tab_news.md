@@ -7,6 +7,10 @@ order: 2
 tags: owtf
 ---
 
+* OWTF selected for GSoC 2022, 2023, 2024, and is looking for people to participate in for 2025!
+* August 2018 - OWTF goes to [Blackhat Arsenal](https://www.blackhat.com/us-18/arsenal.html#owasp-offensive-web-testing-framework) once again!
+* August 2017 - OWTF goes to [Blackhat Arsenal](https://www.blackhat.com/us-17/arsenal.html#offensive-web-testing-framework-owasp-owtf)
+
 ToolsWatch Annual Best Free/Open Source Security Tool Survey:
 > * 2015 [10th](http://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/)
 > * 2014 [7th](http://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/)
