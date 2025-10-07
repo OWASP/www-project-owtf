@@ -1,0 +1,74 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-owtf
+    platform: slack
+    url: https://owasp.slack.com/archives/C5M114999
+    description: OWTF Project discussion
+leaders:
+  - name: Abraham Aranguren
+    email: abraham.aranguren@owasp.org
+    github: 7a
+  - name: Viyat Bhalodia
+    email: viyat.bhalodia@owasp.org
+    github: viyatb
+level: 4
+license:
+  - BSD-3-Clause
+  - GPL-3.0
+name: OWASP OWTF
+pitch: Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in
+  Python.
+repositories:
+  - name: www-project-owtf
+    url: https://github.com/OWASP/www-project-owtf
+    description: OWASP Foundation Web Repository
+  - name: community-plugins
+    url: https://github.com/owtf/community-plugins
+    description: 3rd party plugins contributed by the community
+  - name: health_monitor
+    url: https://github.com/owtf/health_monitor
+    description: A standalone app to monitor and control OWTF - written in Go.
+  - name: http-request-translator
+    url: https://github.com/owtf/http-request-translator
+    description: HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)
+  - name: online-passive-scanner
+    url: https://github.com/owtf/online-passive-scanner
+    description: A passive online scanner from OWTF
+  - name: owtf
+    url: https://github.com/owtf/owtf
+    description: Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org
+      https://twitter.com/owtfp
+  - name: owtf-docker
+    url: https://github.com/owtf/owtf-docker
+    description: Docker repository for OWTF (64-bit Kali)
+  - name: owtf-extensions
+    url: https://github.com/owtf/owtf-extensions
+    description: Optional features that can be plugged in OWTF.
+  - name: owtf-python-client
+    url: https://github.com/owtf/owtf-python-client
+    description: OWTF Python client.
+  - name: owtf-zest-jars
+    url: https://github.com/owtf/owtf-zest-jars
+    description: Consists of jar files needed for zest
+  - name: owtf.github.io
+    url: https://github.com/owtf/owtf.github.io
+  - name: ptp
+    url: https://github.com/owtf/ptp
+    description: Pentester's Tools Parser (PTP) provides an unified way to retrieve the information from all (final goal) automated pentesting tools and
+      assign an automated ranking for each finding.
+  - name: SVNDigger
+    url: https://github.com/owtf/SVNDigger
+    description: Copy of SVNDigger
+  - name: templates
+    url: https://github.com/owtf/templates
+    description: Repo for community pentest reports
+  - name: zest-owtf
+    url: https://github.com/owtf/zest-owtf
+tags:
+  - owtf
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-owtf
