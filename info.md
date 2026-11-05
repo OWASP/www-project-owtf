@@ -24,7 +24,7 @@
 * [Try some of the OWTF features from your browser!](https://owtf.github.io/online-passive-scanner/)
 * [OWASP OWTF Release blog posts](http://blog.7-a.org/search/label/OWTF%20Release)
 * [OWASP OWTF Talk blog posts](http://blog.7-a.org/search/label/OWTF%20Talks)
-* [OWASP OWTF Mailing List](https://lists.owasp.org/mailman/listinfo/owasp_owtf)
+* [OWASP Slack: #project-owtf](https://owasp.org/slack/invite)
 * [OWASP OWTF IRC Channel: #owtf on Freenode](http://webchat.freenode.net/?channels=owtf)
 * [OWASP OWTF Gitter Channel](https://gitter.im/owtf/owtf)
 
